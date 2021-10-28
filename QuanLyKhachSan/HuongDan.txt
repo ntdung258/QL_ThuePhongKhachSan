@@ -2,4 +2,4 @@ Dowload , Giai nen
 
 click : QL_KhachSan / dist / chay file : QuanLyKhachSan.jar
 tk: hotel
-mk: 111111
+mk: 123456
